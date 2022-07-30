@@ -1,4 +1,4 @@
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  NuyyzBotz - Md 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -50,19 +50,19 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://youtube.com/c/LeonGanz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = '083820606259'
+global.povo = '-'
+global.pgopay = '083821057242'
+global.ppulsa = '083820606259'
+global.ppulsa2 = '083821057242'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6283821057242'
+global.nomorown = '6283820606259'
+global.nomorpart = '625718140435'
+global.namebot = 'NuyyBotz-Md'
+global.nameown = 'Nuyy Canci'
 
 
 /*============== STAFF ==============*/
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 NuyyBotz - Md 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NuyyBotz - Md ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NuyyBotz - Md '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Nuyy canci`
+global.author = '                「 NuyyBotz - Md  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
